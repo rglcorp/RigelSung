@@ -4,7 +4,7 @@ import subsetFont from 'subset-font';
 const fontPath = "../dist/RigelSung.ttf";
 const originalFont = fs.readFileSync(fontPath);
 
-const subsetSource = ["ascii.txt", "cjk.txt", "hangul.txt"];
+const subsetSource = ["ascii.txt", "cjk.txt", "cjk_symbols.txt", "hangul.txt"];
 
 let txts = "";
 for(let src of subsetSource) {
