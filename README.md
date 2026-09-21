@@ -1,7 +1,7 @@
 # 里鐵宋 Rigel Sung
 ![Decorative Banner](assets/banner.png)
 
-This is a CJK typeface based on the [GenRyuMinTW v2.1](https://github.com/ButTaiwan/genryu-font) font (SemiBold variant), designed for use by the Rigel Corporation for in-game wayfinding signages.
+This is a CJK typeface based on the [GenRyuMinTC v2.1](https://github.com/ButTaiwan/genryu-font) font (SemiBold variant), designed for use by the Rigel Corporation for in-game wayfinding signages.
 
 Modification including a slightly heavier font weight, and minor modification to the writing of some CJK characters (Such as 天/九/鐘).
 
